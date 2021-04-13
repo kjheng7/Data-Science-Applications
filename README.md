@@ -1,7 +1,6 @@
 # Predict House Price
-
-Application Type: Machine Learning (Supervised)
-Application Title: House price prediction
+Application Type: Machine Learning (Supervised)<br/>
+Application Title: House price prediction<br/>
 Application Objective: 
 1) To calculate the accuracy of predicted house price using size of house
 2) To determine the minimum error value
