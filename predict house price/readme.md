@@ -7,6 +7,7 @@ Application Objective:
 Model: Linear Regression<br/>
 Programming Language: Python (jupyter notebook)<br/>
 Python libraries: numpy, pandas, matplotlib.pyplot, sklearn<br/>
+
 Process:
 1) Read CSV data
 2) Pre-process data (mean normalization: (data – mean) / (max data – min data))
