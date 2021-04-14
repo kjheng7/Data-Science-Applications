@@ -3,10 +3,10 @@ Application Type: Machine Learning (Supervised)<br/>
 Application Title: House price prediction<br/>
 Application Objective: 
 1) To calculate the accuracy of predicted house price using size of house
-2) To determine the minimum error value
-Model: Linear Regression
-Programming Language: Python (jupyter notebook)
-Python libraries: numpy, pandas, matplotlib.pyplot, sklearn
+2) To determine the minimum error value<br/>
+Model: Linear Regression<br/>
+Programming Language: Python (jupyter notebook)<br/>
+Python libraries: numpy, pandas, matplotlib.pyplot, sklearn<br/>
 Process:
 1) Read CSV data
 2) Pre-process data (mean normalization: (data – mean) / (max data – min data))
